@@ -1,0 +1,6 @@
+shot_id,start_s,end_s,duration_s,purpose,message,composition,main_action,easing_or_motion,audio_cue,transition_out,text_to_verify,technical_risk,qa_status
+S01,0,3,3,Hook,One clear promise,Single focal point,Reveal hero headline,Ease-out and settle,Opening accent,Headline/shape bridge,Exact hook copy,Text readability,PLANNED
+S02,3,7,4,Setup,Establish problem,Clear hierarchy,Problem resolves into product,Controlled stagger,Dialogue cue,Match cut,Product name,Timing overlap,PLANNED
+S03,7,13,6,Demonstration,Show mechanism,Hero UI with supporting cards,Reveal key workflow,Choreographed stagger,UI clicks,Position bridge,UI labels,Asset loading,PLANNED
+S04,13,17,4,Payoff,Show value,Spacious hero composition,Resolve into benefit,Slow settle,Music accent,Color/light bridge,Claim accuracy,Readability,PLANNED
+S05,17,20,3,CTA,One action,Simple end card,Reveal CTA and hold,Short reveal then hold,Audio tail,Clean ending,Exact CTA,End cutoff,PLANNED
