@@ -1,3 +1,14 @@
+🎬 Watch the Demo
+
+"▶️ Click here to watch the video" (./compressed%20(1).mp4)
+
+✨ Meet the Skill
+
+"Motion Ad Director Pro" (./IMG-20261025-WA0001.jpg)
+
+
+"Motion Ad Director Pro" (./IMG-20261025-WA0001.jpg)
+
 # Motion Ad Director Pro
 
 **A reference-aware production skill for premium motion-graphics advertisements.**
